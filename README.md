@@ -1,8 +1,13 @@
-# Introduction
+* 翻译：xinjie
+* 日期：2024.05.15 -
 
-This solution contains a series of examples on how to use certain functionalities of DotNet in XSharp. 
+# 简介
 
-Some of the examples use features from the X# version 2.8 (like local methods and expression bodies)
+本解决方案包含一系列示例，介绍如何在 XSharp 中使用 DotNet 的某些功能。
+
+其中一些示例使用了 X# 2.8 版本的功能（如 local menthod 和 expression bodies）
+
+（此本地化仓库计划使用 Visual FoxPro 方言的语法来重新展示原版的一系列示例）
 
 # List of the demonstraded DotNet functionality
 
